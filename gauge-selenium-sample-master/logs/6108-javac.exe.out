@@ -1,0 +1,108 @@
+src\test\java\driver\driver\DriverFactory.java:5: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.JavascriptExecutor;
+                          ^
+src\test\java\driver\driver\DriverFactory.java:6: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.WebDriver;
+                          ^
+src\test\java\driver\driver\DriverFactory.java:7: error: package org.openqa.selenium.remote does not exist
+import org.openqa.selenium.remote.DesiredCapabilities;
+                                 ^
+src\test\java\driver\driver\DriverFactory.java:8: error: package org.openqa.selenium.remote does not exist
+import org.openqa.selenium.remote.RemoteWebDriver;
+                                 ^
+src\test\java\driver\driver\DriverFactory.java:26: error: cannot find symbol
+    private  WebDriver driver = null;
+             ^
+  symbol:   class WebDriver
+  location: class DriverFactory
+src\test\java\driver\driver\DriverFactory.java:28: error: cannot find symbol
+    public  WebDriver getDriver() {
+            ^
+  symbol:   class WebDriver
+  location: class DriverFactory
+src\test\java\driver\driver\StepImplementation_ToDo.java:5: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.By;
+                          ^
+src\test\java\driver\driver\StepImplementation_ToDo.java:6: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.WebDriver;
+                          ^
+src\test\java\driver\driver\StepImplementation_ToDo.java:7: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.WebElement;
+                          ^
+src\test\java\driver\driver\StepImplementation_ToDo.java:11: error: package org.junit does not exist
+import static org.junit.Assert.assertEquals;
+                       ^
+src\test\java\driver\driver\StepImplementation_ToDo.java:11: error: static import only from classes and interfaces
+import static org.junit.Assert.assertEquals;
+^
+src\test\java\driver\driver\StepImplementation_ToDo.java:15: error: cannot find symbol
+    private final WebDriver driver;
+                  ^
+  symbol:   class WebDriver
+  location: class StepImplementation_ToDo
+src\test\java\driver\driver\DriverFactory.java:38: error: cannot find symbol
+            DesiredCapabilities capabilities = new DesiredCapabilities();
+            ^
+  symbol:   class DesiredCapabilities
+  location: class DriverFactory
+src\test\java\driver\driver\DriverFactory.java:38: error: cannot find symbol
+            DesiredCapabilities capabilities = new DesiredCapabilities();
+                                                   ^
+  symbol:   class DesiredCapabilities
+  location: class DriverFactory
+src\test\java\driver\driver\DriverFactory.java:48: error: cannot find symbol
+            driver = new RemoteWebDriver(new URL("https://" + username + ":" + accesskey + gridURL), capabilities);
+                         ^
+  symbol:   class RemoteWebDriver
+  location: class DriverFactory
+src\test\java\driver\driver\DriverFactory.java:60: error: cannot find symbol
+            ((JavascriptExecutor) driver).executeScript("lambda-status=" + status);
+              ^
+  symbol:   class JavascriptExecutor
+  location: class DriverFactory
+src\test\java\driver\driver\StepImplementation_ToDo.java:27: error: cannot find symbol
+        assertEquals(title,"Sample page - lambdatest.com");
+        ^
+  symbol:   method assertEquals(String,String)
+  location: class StepImplementation_ToDo
+src\test\java\driver\driver\StepImplementation_ToDo.java:33: error: cannot find symbol
+      WebElement itemOne = driver.findElement(By.name("li1"));
+      ^
+  symbol:   class WebElement
+  location: class StepImplementation_ToDo
+src\test\java\driver\driver\StepImplementation_ToDo.java:33: error: cannot find symbol
+      WebElement itemOne = driver.findElement(By.name("li1"));
+                                              ^
+  symbol:   variable By
+  location: class StepImplementation_ToDo
+src\test\java\driver\driver\StepImplementation_ToDo.java:38: error: cannot find symbol
+      WebElement itemThird = driver.findElement(By.name("li3"));
+      ^
+  symbol:   class WebElement
+  location: class StepImplementation_ToDo
+src\test\java\driver\driver\StepImplementation_ToDo.java:38: error: cannot find symbol
+      WebElement itemThird = driver.findElement(By.name("li3"));
+                                                ^
+  symbol:   variable By
+  location: class StepImplementation_ToDo
+src\test\java\driver\driver\StepImplementation_ToDo.java:45: error: cannot find symbol
+      WebElement addItem  = driver.findElement(By.id("sampletodotext"));
+      ^
+  symbol:   class WebElement
+  location: class StepImplementation_ToDo
+src\test\java\driver\driver\StepImplementation_ToDo.java:45: error: cannot find symbol
+      WebElement addItem  = driver.findElement(By.id("sampletodotext"));
+                                               ^
+  symbol:   variable By
+  location: class StepImplementation_ToDo
+src\test\java\driver\driver\StepImplementation_ToDo.java:49: error: cannot find symbol
+      WebElement addButton = driver.findElement(By.id("addbutton"));
+      ^
+  symbol:   class WebElement
+  location: class StepImplementation_ToDo
+src\test\java\driver\driver\StepImplementation_ToDo.java:49: error: cannot find symbol
+      WebElement addButton = driver.findElement(By.id("addbutton"));
+                                                ^
+  symbol:   variable By
+  location: class StepImplementation_ToDo
+25 errors

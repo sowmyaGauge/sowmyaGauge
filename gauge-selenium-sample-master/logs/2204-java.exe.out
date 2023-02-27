@@ -1,0 +1,36 @@
+{"logLevel":"debug","message":"multithreading is set to true"}
+{"logLevel":"debug","message":"multithreading enabled, number of threads=2"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 5884milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 5884"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 49864"}
+{"logLevel":"info","message":"Listening on port:49864"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'driver.driver.StepImplementation_ToDo.gotoApp' and 'driver.driver.StepImplementation_ToDo.gotoApp'"}
+{"logLevel":"debug","message":"Found Open the todo app in current project scope."}
+{"logLevel":"debug","message":"Comparing 'driver.driver.StepImplementation_ToDo.addNewItem' and 'driver.driver.StepImplementation_ToDo.addNewItem'"}
+{"logLevel":"debug","message":"Found Add new item {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'driver.driver.StepImplementation_ToDo.selectItems' and 'driver.driver.StepImplementation_ToDo.selectItems'"}
+{"logLevel":"debug","message":"Found Select the desired items in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tAdd new item {} : public void addNewItem(String itemName) throws InterruptedException"}
+{"logLevel":"debug","message":"\tOpen the todo app : public void gotoApp() throws InterruptedException"}
+{"logLevel":"debug","message":"\tSelect the desired items : public void selectItems() throws InterruptedException"}
+Unauthorized, either Username or AccessKey is invalid. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.70 seconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ET8QFN2', ip: '192.168.1.24', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: driver.version: RemoteWebDriver
+{"logLevel":"debug","message":"Executing 'Open the todo app' using 'class driver.driver.StepImplementation_ToDo.gotoApp"}
+Unauthorized, either Username or AccessKey is invalid. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.18 seconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ET8QFN2', ip: '192.168.1.24', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: driver.version: RemoteWebDriver
+null
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

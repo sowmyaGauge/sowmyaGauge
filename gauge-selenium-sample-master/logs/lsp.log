@@ -1,0 +1,693 @@
+24-02-2023 23:48:43.381 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+24-02-2023 23:48:43.455 [Gauge] [INFO] Initializing specs cache with 2 specs
+24-02-2023 23:48:43.455 [Gauge] [DEBUG] Adding specs from c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+24-02-2023 23:48:43.455 [Gauge] [DEBUG] Adding specs from c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:48:43.455 [Gauge] [INFO] Initializing steps cache with 2 steps
+24-02-2023 23:48:43.480 [Gauge] [INFO] Starting language runner
+24-02-2023 23:48:43.531 [Gauge] [DEBUG] Watching directory: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs
+24-02-2023 23:48:43.532 [Gauge] [DEBUG] Found 2 files
+24-02-2023 23:48:44.509 [java] [DEBUG] ***** Printing Properties/Env Values *****
+24-02-2023 23:48:44.510 [java] [DEBUG] PATH: C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-19\bin;C:\Program Files\apache-maven-3.9.0\bin;C:\Program Files\Gauge\bin;C:\Users\ADMIN\AppData\Local\Microsoft\WindowsApps;;C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code\bin
+24-02-2023 23:48:44.510 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-19
+24-02-2023 23:48:44.510 [java] [DEBUG] gauge_project_root: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master
+24-02-2023 23:48:44.510 [java] [DEBUG] gauge_parallel_streams_count: 
+24-02-2023 23:48:44.510 [java] [DEBUG] gauge_reports_dir: reports
+24-02-2023 23:48:44.510 [java] [DEBUG] overwrite_reports: true
+24-02-2023 23:48:44.510 [java] [DEBUG] logs_directory: logs
+24-02-2023 23:48:44.510 [java] [DEBUG] enable_multithreading: true
+24-02-2023 23:48:44.510 [java] [DEBUG] gauge_specs_dir: specs
+24-02-2023 23:48:44.510 [java] [DEBUG] csv_delimiter: ,
+24-02-2023 23:48:44.510 [java] [DEBUG] gauge_java_home: 
+24-02-2023 23:48:44.510 [java] [DEBUG] gauge_custom_build_path: 
+24-02-2023 23:48:44.510 [java] [DEBUG] gauge_additional_libs: libs/*
+24-02-2023 23:48:44.510 [java] [DEBUG] gauge_jvm_args: 
+24-02-2023 23:48:44.510 [java] [DEBUG] gauge_custom_compile_dir: 
+24-02-2023 23:48:44.510 [java] [DEBUG] gauge_clear_state_level: 
+24-02-2023 23:48:44.510 [java] [DEBUG] ***** END *****
+24-02-2023 23:48:47.614 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:48:47.808 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:49:29.159 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+24-02-2023 23:49:29.238 [Gauge] [INFO] Initializing specs cache with 2 specs
+24-02-2023 23:49:29.238 [Gauge] [DEBUG] Adding specs from c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+24-02-2023 23:49:29.238 [Gauge] [DEBUG] Adding specs from c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:49:29.238 [Gauge] [INFO] Initializing steps cache with 2 steps
+24-02-2023 23:49:29.238 [Gauge] [INFO] Starting language runner
+24-02-2023 23:49:29.253 [Gauge] [DEBUG] Watching directory: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs
+24-02-2023 23:49:29.253 [Gauge] [DEBUG] Found 2 files
+24-02-2023 23:49:30.674 [java] [DEBUG] ***** Printing Properties/Env Values *****
+24-02-2023 23:49:30.677 [java] [DEBUG] PATH: C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-19\bin;C:\Program Files\apache-maven-3.9.0\bin;C:\Program Files\Gauge\bin;C:\Users\ADMIN\AppData\Local\Microsoft\WindowsApps;;C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code\bin
+24-02-2023 23:49:30.677 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-19
+24-02-2023 23:49:30.677 [java] [DEBUG] gauge_project_root: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master
+24-02-2023 23:49:30.677 [java] [DEBUG] gauge_parallel_streams_count: 
+24-02-2023 23:49:30.677 [java] [DEBUG] gauge_reports_dir: reports
+24-02-2023 23:49:30.677 [java] [DEBUG] overwrite_reports: true
+24-02-2023 23:49:30.677 [java] [DEBUG] logs_directory: logs
+24-02-2023 23:49:30.677 [java] [DEBUG] enable_multithreading: true
+24-02-2023 23:49:30.677 [java] [DEBUG] gauge_specs_dir: specs
+24-02-2023 23:49:30.677 [java] [DEBUG] csv_delimiter: ,
+24-02-2023 23:49:30.677 [java] [DEBUG] gauge_java_home: 
+24-02-2023 23:49:30.677 [java] [DEBUG] gauge_custom_build_path: 
+24-02-2023 23:49:30.677 [java] [DEBUG] gauge_additional_libs: libs/*
+24-02-2023 23:49:30.677 [java] [DEBUG] gauge_jvm_args: 
+24-02-2023 23:49:30.677 [java] [DEBUG] gauge_custom_compile_dir: 
+24-02-2023 23:49:30.677 [java] [DEBUG] gauge_clear_state_level: 
+24-02-2023 23:49:30.677 [java] [DEBUG] ***** END *****
+24-02-2023 23:50:01.508 [Gauge] [DEBUG] Gauge could not initialize. Install 'vscjava.vscode-java-pack' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+24-02-2023 23:50:01.508 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+24-02-2023 23:50:05.214 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+24-02-2023 23:50:10.933 [java] [ERROR] Installed version of gauge-java (0.9.1) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+24-02-2023 23:50:11.114 [java] [DEBUG] running - C:\Program Files\Java\jdk-19\bin\javac.exe [-encoding UTF-8 -d gauge_bin @C:\Users\ADMIN\AppData\Local\Temp\gauge_temp2159211086\52fdfc072182654f163f5f0f9a621d72]
+24-02-2023 23:50:11.114 [java] [DEBUG] stdout/stderr is logged to logs\6108-javac.exe.out
+24-02-2023 23:50:17.957 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:5: error: package org.openqa.selenium does not exist
+24-02-2023 23:50:17.957 [java] [ERROR] import org.openqa.selenium.JavascriptExecutor;
+24-02-2023 23:50:17.957 [java] [ERROR] ^
+24-02-2023 23:50:17.993 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:6: error: package org.openqa.selenium does not exist
+24-02-2023 23:50:17.993 [java] [ERROR] import org.openqa.selenium.WebDriver;
+24-02-2023 23:50:17.993 [java] [ERROR] ^
+24-02-2023 23:50:18.095 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:7: error: package org.openqa.selenium.remote does not exist
+24-02-2023 23:50:18.095 [java] [ERROR] import org.openqa.selenium.remote.DesiredCapabilities;
+24-02-2023 23:50:18.095 [java] [ERROR] ^
+24-02-2023 23:50:18.115 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:8: error: package org.openqa.selenium.remote does not exist
+24-02-2023 23:50:18.116 [java] [ERROR] import org.openqa.selenium.remote.RemoteWebDriver;
+24-02-2023 23:50:18.116 [java] [ERROR] ^
+24-02-2023 23:50:18.440 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:26: error: cannot find symbol
+24-02-2023 23:50:18.440 [java] [ERROR] private  WebDriver driver = null;
+24-02-2023 23:50:18.440 [java] [ERROR] ^
+24-02-2023 23:50:18.440 [java] [ERROR] symbol:   class WebDriver
+24-02-2023 23:50:18.440 [java] [ERROR] location: class DriverFactory
+24-02-2023 23:50:18.441 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:28: error: cannot find symbol
+24-02-2023 23:50:18.441 [java] [ERROR] public  WebDriver getDriver() {
+24-02-2023 23:50:18.441 [java] [ERROR] ^
+24-02-2023 23:50:18.441 [java] [ERROR] symbol:   class WebDriver
+24-02-2023 23:50:18.441 [java] [ERROR] location: class DriverFactory
+24-02-2023 23:50:18.610 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:5: error: package org.openqa.selenium does not exist
+24-02-2023 23:50:18.610 [java] [ERROR] import org.openqa.selenium.By;
+24-02-2023 23:50:18.610 [java] [ERROR] ^
+24-02-2023 23:50:18.610 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:6: error: package org.openqa.selenium does not exist
+24-02-2023 23:50:18.610 [java] [ERROR] import org.openqa.selenium.WebDriver;
+24-02-2023 23:50:18.610 [java] [ERROR] ^
+24-02-2023 23:50:18.731 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:7: error: package org.openqa.selenium does not exist
+24-02-2023 23:50:18.731 [java] [ERROR] import org.openqa.selenium.WebElement;
+24-02-2023 23:50:18.731 [java] [ERROR] ^
+24-02-2023 23:50:19.029 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:11: error: package org.junit does not exist
+24-02-2023 23:50:19.029 [java] [ERROR] import static org.junit.Assert.assertEquals;
+24-02-2023 23:50:19.029 [java] [ERROR] ^
+24-02-2023 23:50:19.095 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:11: error: static import only from classes and interfaces
+24-02-2023 23:50:19.095 [java] [ERROR] import static org.junit.Assert.assertEquals;
+24-02-2023 23:50:19.095 [java] [ERROR] ^
+24-02-2023 23:50:19.095 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:15: error: cannot find symbol
+24-02-2023 23:50:19.095 [java] [ERROR] private final WebDriver driver;
+24-02-2023 23:50:19.095 [java] [ERROR] ^
+24-02-2023 23:50:19.095 [java] [ERROR] symbol:   class WebDriver
+24-02-2023 23:50:19.095 [java] [ERROR] location: class StepImplementation_ToDo
+24-02-2023 23:50:19.285 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:38: error: cannot find symbol
+24-02-2023 23:50:19.285 [java] [ERROR] DesiredCapabilities capabilities = new DesiredCapabilities();
+24-02-2023 23:50:19.285 [java] [ERROR] ^
+24-02-2023 23:50:19.285 [java] [ERROR] symbol:   class DesiredCapabilities
+24-02-2023 23:50:19.285 [java] [ERROR] location: class DriverFactory
+24-02-2023 23:50:19.285 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:38: error: cannot find symbol
+24-02-2023 23:50:19.285 [java] [ERROR] DesiredCapabilities capabilities = new DesiredCapabilities();
+24-02-2023 23:50:19.285 [java] [ERROR] ^
+24-02-2023 23:50:19.285 [java] [ERROR] symbol:   class DesiredCapabilities
+24-02-2023 23:50:19.285 [java] [ERROR] location: class DriverFactory
+24-02-2023 23:50:19.390 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:48: error: cannot find symbol
+24-02-2023 23:50:19.390 [java] [ERROR] driver = new RemoteWebDriver(new URL("https://" + username + ":" + accesskey + gridURL), capabilities);
+24-02-2023 23:50:19.390 [java] [ERROR] ^
+24-02-2023 23:50:19.390 [java] [ERROR] symbol:   class RemoteWebDriver
+24-02-2023 23:50:19.390 [java] [ERROR] location: class DriverFactory
+24-02-2023 23:50:19.471 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:60: error: cannot find symbol
+24-02-2023 23:50:19.471 [java] [ERROR] ((JavascriptExecutor) driver).executeScript("lambda-status=" + status);
+24-02-2023 23:50:19.471 [java] [ERROR] ^
+24-02-2023 23:50:19.471 [java] [ERROR] symbol:   class JavascriptExecutor
+24-02-2023 23:50:19.471 [java] [ERROR] location: class DriverFactory
+24-02-2023 23:50:19.513 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:27: error: cannot find symbol
+24-02-2023 23:50:19.513 [java] [ERROR] assertEquals(title,"Sample page - lambdatest.com");
+24-02-2023 23:50:19.513 [java] [ERROR] ^
+24-02-2023 23:50:19.513 [java] [ERROR] symbol:   method assertEquals(String,String)
+24-02-2023 23:50:19.513 [java] [ERROR] location: class StepImplementation_ToDo
+24-02-2023 23:50:19.513 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:33: error: cannot find symbol
+24-02-2023 23:50:19.513 [java] [ERROR] WebElement itemOne = driver.findElement(By.name("li1"));
+24-02-2023 23:50:19.513 [java] [ERROR] ^
+24-02-2023 23:50:19.513 [java] [ERROR] symbol:   class WebElement
+24-02-2023 23:50:19.513 [java] [ERROR] location: class StepImplementation_ToDo
+24-02-2023 23:50:19.513 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:33: error: cannot find symbol
+24-02-2023 23:50:19.513 [java] [ERROR] WebElement itemOne = driver.findElement(By.name("li1"));
+24-02-2023 23:50:19.513 [java] [ERROR] ^
+24-02-2023 23:50:19.513 [java] [ERROR] symbol:   variable By
+24-02-2023 23:50:19.513 [java] [ERROR] location: class StepImplementation_ToDo
+24-02-2023 23:50:19.513 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:38: error: cannot find symbol
+24-02-2023 23:50:19.513 [java] [ERROR] WebElement itemThird = driver.findElement(By.name("li3"));
+24-02-2023 23:50:19.513 [java] [ERROR] ^
+24-02-2023 23:50:19.513 [java] [ERROR] symbol:   class WebElement
+24-02-2023 23:50:19.513 [java] [ERROR] location: class StepImplementation_ToDo
+24-02-2023 23:50:19.513 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:38: error: cannot find symbol
+24-02-2023 23:50:19.552 [java] [ERROR] WebElement itemThird = driver.findElement(By.name("li3"));
+24-02-2023 23:50:19.552 [java] [ERROR] ^
+24-02-2023 23:50:19.552 [java] [ERROR] symbol:   variable By
+24-02-2023 23:50:19.552 [java] [ERROR] location: class StepImplementation_ToDo
+24-02-2023 23:50:19.552 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:45: error: cannot find symbol
+24-02-2023 23:50:19.552 [java] [ERROR] WebElement addItem  = driver.findElement(By.id("sampletodotext"));
+24-02-2023 23:50:19.552 [java] [ERROR] ^
+24-02-2023 23:50:19.552 [java] [ERROR] symbol:   class WebElement
+24-02-2023 23:50:19.552 [java] [ERROR] location: class StepImplementation_ToDo
+24-02-2023 23:50:19.552 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:45: error: cannot find symbol
+24-02-2023 23:50:19.552 [java] [ERROR] WebElement addItem  = driver.findElement(By.id("sampletodotext"));
+24-02-2023 23:50:19.552 [java] [ERROR] ^
+24-02-2023 23:50:19.552 [java] [ERROR] symbol:   variable By
+24-02-2023 23:50:19.552 [java] [ERROR] location: class StepImplementation_ToDo
+24-02-2023 23:50:19.552 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:49: error: cannot find symbol
+24-02-2023 23:50:19.552 [java] [ERROR] WebElement addButton = driver.findElement(By.id("addbutton"));
+24-02-2023 23:50:19.552 [java] [ERROR] ^
+24-02-2023 23:50:19.552 [java] [ERROR] symbol:   class WebElement
+24-02-2023 23:50:19.552 [java] [ERROR] location: class StepImplementation_ToDo
+24-02-2023 23:50:19.552 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:49: error: cannot find symbol
+24-02-2023 23:50:19.552 [java] [ERROR] WebElement addButton = driver.findElement(By.id("addbutton"));
+24-02-2023 23:50:19.552 [java] [ERROR] ^
+24-02-2023 23:50:19.552 [java] [ERROR] symbol:   variable By
+24-02-2023 23:50:19.552 [java] [ERROR] location: class StepImplementation_ToDo
+24-02-2023 23:50:19.552 [java] [ERROR] 25 errors
+24-02-2023 23:50:21.016 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+24-02-2023 23:53:26.248 [Gauge] [DEBUG] request #5: textDocument/documentSymbol: parsing failed for c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec. [[ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found => '' [ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:9 Scenario should be defined after the spec heading => '##Get Started']
+24-02-2023 23:53:26.526 [Gauge] [DEBUG] request #6: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:9 Scenario should be defined after the spec heading
+24-02-2023 23:53:31.530 [Gauge] [DEBUG] request #10: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:9 Scenario should be defined after the spec heading
+24-02-2023 23:53:36.476 [Gauge] [DEBUG] request #12: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:9 Scenario should be defined after the spec heading
+24-02-2023 23:53:36.571 [Gauge] [DEBUG] request #14: textDocument/documentSymbol: parsing failed for c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec. [[ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found => '' [ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:9 Scenario should be defined after the spec heading => '##Get Started']
+24-02-2023 23:53:36.755 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:53:36.823 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:53:42.883 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:53:42.917 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:53:51.581 [Gauge] [DEBUG] request #18: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:9 Scenario should be defined after the spec heading
+24-02-2023 23:53:55.093 [Gauge] [DEBUG] request #20: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+24-02-2023 23:53:55.207 [Gauge] [DEBUG] request #22: textDocument/documentSymbol: parsing failed for c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec. [[ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found => '']
+24-02-2023 23:53:55.352 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:53:55.373 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:54:01.578 [Gauge] [DEBUG] request #25: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+24-02-2023 23:54:07.008 [Gauge] [DEBUG] request #29: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+24-02-2023 23:54:07.103 [Gauge] [DEBUG] request #30: textDocument/documentSymbol: parsing failed for c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec. [[ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found => '']
+24-02-2023 23:54:07.254 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:54:07.293 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:54:08.381 [Gauge] [DEBUG] request #32: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+24-02-2023 23:54:08.476 [Gauge] [DEBUG] request #33: textDocument/documentSymbol: parsing failed for c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec. [[ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found => '']
+24-02-2023 23:54:08.641 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:54:08.769 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:54:10.532 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:54:10.551 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:54:13.399 [Gauge] [DEBUG] request #35: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+24-02-2023 23:54:13.532 [Gauge] [DEBUG] request #36: textDocument/documentSymbol: parsing failed for c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec. [[ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found => '']
+24-02-2023 23:54:13.659 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:54:13.676 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:54:17.266 [Gauge] [DEBUG] request #38: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+24-02-2023 23:54:17.349 [Gauge] [DEBUG] request #39: textDocument/documentSymbol: parsing failed for c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec. [[ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found => '']
+24-02-2023 23:54:17.506 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:54:17.547 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:54:18.331 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:54:18.363 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+24-02-2023 23:54:35.462 [Gauge] [DEBUG] request #42: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+25-02-2023 13:11:44.965 [Gauge] [DEBUG] request #124: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+25-02-2023 13:11:49.790 [Gauge] [DEBUG] request #127: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+25-02-2023 13:12:01.146 [Gauge] [DEBUG] request #137: textDocument/documentSymbol: parsing failed for c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec. [[ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found => '']
+25-02-2023 13:12:01.316 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+25-02-2023 13:12:01.683 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+25-02-2023 13:12:01.715 [Gauge] [DEBUG] request #139: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+25-02-2023 13:12:02.518 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+25-02-2023 13:12:02.630 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+25-02-2023 13:12:21.722 [Gauge] [DEBUG] request #143: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+25-02-2023 13:12:32.365 [Gauge] [DEBUG] request #144: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+25-02-2023 13:12:44.553 [Gauge] [DEBUG] request #145: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+25-02-2023 13:12:47.588 [Gauge] [DEBUG] request #146: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+25-02-2023 13:13:02.004 [Gauge] [DEBUG] request #147: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+25-02-2023 13:13:07.328 [Gauge] [DEBUG] request #148: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+25-02-2023 20:21:47.710 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+25-02-2023 20:21:48.470 [Gauge] [INFO] Initializing specs cache with 2 specs
+25-02-2023 20:21:48.470 [Gauge] [DEBUG] Adding specs from c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+25-02-2023 20:21:48.470 [Gauge] [DEBUG] Adding specs from c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+25-02-2023 20:21:48.470 [Gauge] [INFO] Initializing steps cache with 2 steps
+25-02-2023 20:21:48.565 [Gauge] [DEBUG] Watching directory: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs
+25-02-2023 20:21:48.565 [Gauge] [DEBUG] Found 2 files
+25-02-2023 20:21:49.024 [Gauge] [INFO] Starting language runner
+25-02-2023 20:21:51.992 [java] [DEBUG] ***** Printing Properties/Env Values *****
+25-02-2023 20:21:51.992 [java] [DEBUG] PATH: C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-19\bin;C:\Program Files\apache-maven-3.9.0\bin;C:\Program Files\Gauge\bin;C:\Users\ADMIN\AppData\Local\Microsoft\WindowsApps;;C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ADMIN\AppData\Roaming\gauge\plugins\screenshot\0.1.0
+25-02-2023 20:21:51.992 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-19
+25-02-2023 20:21:51.992 [java] [DEBUG] gauge_project_root: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master
+25-02-2023 20:21:51.992 [java] [DEBUG] gauge_parallel_streams_count: 
+25-02-2023 20:21:51.992 [java] [DEBUG] gauge_reports_dir: reports
+25-02-2023 20:21:51.992 [java] [DEBUG] overwrite_reports: true
+25-02-2023 20:21:51.992 [java] [DEBUG] logs_directory: logs
+25-02-2023 20:21:51.992 [java] [DEBUG] enable_multithreading: true
+25-02-2023 20:21:51.992 [java] [DEBUG] gauge_specs_dir: specs
+25-02-2023 20:21:51.992 [java] [DEBUG] csv_delimiter: ,
+25-02-2023 20:21:51.992 [java] [DEBUG] gauge_java_home: 
+25-02-2023 20:21:51.992 [java] [DEBUG] gauge_custom_build_path: 
+25-02-2023 20:21:51.992 [java] [DEBUG] gauge_additional_libs: libs/*
+25-02-2023 20:21:51.992 [java] [DEBUG] gauge_jvm_args: 
+25-02-2023 20:21:51.992 [java] [DEBUG] gauge_custom_compile_dir: 
+25-02-2023 20:21:51.992 [java] [DEBUG] gauge_clear_state_level: 
+25-02-2023 20:21:51.992 [java] [DEBUG] ***** END *****
+25-02-2023 20:22:21.794 [Gauge] [DEBUG] Gauge could not initialize. Install 'vscjava.vscode-java-pack' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+25-02-2023 20:22:21.794 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+25-02-2023 20:22:23.321 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+25-02-2023 20:22:37.867 [java] [ERROR] Installed version of gauge-java (0.9.1) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+25-02-2023 20:22:38.920 [java] [DEBUG] running - C:\Program Files\Java\jdk-19\bin\javac.exe [-encoding UTF-8 -d gauge_bin @C:\Users\ADMIN\AppData\Local\Temp\gauge_temp1935340297\52fdfc072182654f163f5f0f9a621d72]
+25-02-2023 20:22:38.922 [java] [DEBUG] stdout/stderr is logged to logs\7608-javac.exe.out
+25-02-2023 20:22:48.620 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:35: error: ';' expected
+25-02-2023 20:22:48.621 [java] [ERROR] System.out.println("by class is displayed")
+25-02-2023 20:22:48.621 [java] [ERROR] ^
+25-02-2023 20:22:48.623 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:38: error: ';' expected
+25-02-2023 20:22:48.623 [java] [ERROR] System.out.println("")
+25-02-2023 20:22:48.623 [java] [ERROR] ^
+25-02-2023 20:22:48.628 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:43: error: ';' expected
+25-02-2023 20:22:48.628 [java] [ERROR] public void addNewItem(String itemName) throws InterruptedException {
+25-02-2023 20:22:48.629 [java] [ERROR] ^
+25-02-2023 20:22:48.629 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:43: error: ';' expected
+25-02-2023 20:22:48.629 [java] [ERROR] public void addNewItem(String itemName) throws InterruptedException {
+25-02-2023 20:22:48.629 [java] [ERROR] ^
+25-02-2023 20:22:48.629 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:43: error: not a statement
+25-02-2023 20:22:48.629 [java] [ERROR] public void addNewItem(String itemName) throws InterruptedException {
+25-02-2023 20:22:48.629 [java] [ERROR] ^
+25-02-2023 20:22:48.637 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:43: error: ';' expected
+25-02-2023 20:22:48.637 [java] [ERROR] public void addNewItem(String itemName) throws InterruptedException {
+25-02-2023 20:22:48.637 [java] [ERROR] ^
+25-02-2023 20:22:48.637 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:52: error: reached end of file while parsing
+25-02-2023 20:22:48.637 [java] [ERROR] }
+25-02-2023 20:22:48.637 [java] [ERROR] ^
+25-02-2023 20:22:49.613 [java] [ERROR] 7 errors
+25-02-2023 20:22:49.771 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+26-02-2023 19:20:17.113 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:20:22.256 [Gauge] [DEBUG] request #3: textDocument/documentSymbol: parsing failed for c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec. [[ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found => '']
+26-02-2023 19:20:23.527 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:23:35.758 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:23:35.769 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:23:39.194 [Gauge] [CRITICAL] request #12: textDocument/completion: runtime error: invalid memory address or nil pointer dereference
+goroutine 72 [running]:
+runtime/debug.Stack(0xc0004872e0, 0x1701480, 0x1cc2a30)
+	C:/hostedtoolcache/windows/go/1.16.13/x64/src/runtime/debug/stack.go:24 +0xa5
+github.com/getgauge/gauge/api/lang.recoverPanic(0xc0002e60a0)
+	D:/a/gauge/gauge/api/lang/server.go:308 +0x65
+panic(0x1701480, 0x1cc2a30)
+	C:/hostedtoolcache/windows/go/1.16.13/x64/src/runtime/panic.go:965 +0x1c7
+github.com/getgauge/gauge/runner.(*GrpcRunner).ExecuteMessageWithTimeout(...)
+	D:/a/gauge/gauge/runner/grpcRunner.go:195
+github.com/getgauge/gauge/api/lang.getAllStepsResponse(0x5, 0x0, 0x2)
+	D:/a/gauge/gauge/api/lang/runner.go:141 +0x7e
+github.com/getgauge/gauge/api/lang.allImplementedStepValues(0xc0000e2000, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/completionStep.go:63 +0x3b
+github.com/getgauge/gauge/api/lang.stepCompletion(0xc00059ebab, 0x1c, 0xc00059ebab, 0x1, 0xc0002a4060, 0x53, 0xb, 0x1, 0x4, 0x4, ...)
+	D:/a/gauge/gauge/api/lang/completionStep.go:32 +0x656
+github.com/getgauge/gauge/api/lang.completion(0xc0002e60a0, 0x17f28f4, 0x17, 0x1, 0x1)
+	D:/a/gauge/gauge/api/lang/completion.go:60 +0x1f8
+github.com/getgauge/gauge/api/lang.(*LangHandler).Handle(0x1d203c8, 0x18d47b0, 0xc0000320a8, 0x18d1c40, 0xc0003b6120, 0xc0002e60a0, 0xc000581eb0, 0xfde8ff, 0x40, 0x178fee0)
+	D:/a/gauge/gauge/api/lang/server.go:120 +0x20e5
+github.com/getgauge/gauge/api/lang.(*LangHandler).handle(0x1d203c8, 0x18d47b0, 0xc0000320a8, 0xc0003b6120, 0xc0002e60a0, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/server.go:60 +0xac
+github.com/sourcegraph/jsonrpc2.(*HandlerWithErrorConfigurer).Handle(0xc000382770, 0x18d47b0, 0xc0000320a8, 0xc0003b6120, 0xc0002e60a0)
+	C:/Users/runneradmin/go/pkg/mod/github.com/sourcegraph/jsonrpc2@v0.0.0-20200429184054-15c2290dcb37/handler_with_error.go:21 +0x79
+created by github.com/getgauge/gauge/api/lang.lspHandler.Handle
+	D:/a/gauge/gauge/api/lang/server.go:55 +0x72
+26-02-2023 19:23:50.253 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+26-02-2023 19:23:50.298 [Gauge] [INFO] Initializing specs cache with 2 specs
+26-02-2023 19:23:50.298 [Gauge] [DEBUG] Adding specs from c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:23:50.299 [Gauge] [DEBUG] Adding specs from c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:23:50.299 [Gauge] [INFO] Initializing steps cache with 2 steps
+26-02-2023 19:23:50.304 [Gauge] [DEBUG] Watching directory: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs
+26-02-2023 19:23:50.305 [Gauge] [DEBUG] Found 2 files
+26-02-2023 19:23:50.441 [Gauge] [INFO] Starting language runner
+26-02-2023 19:23:52.039 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:23:52.081 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:23:52.327 [java] [DEBUG] ***** Printing Properties/Env Values *****
+26-02-2023 19:23:52.327 [java] [DEBUG] PATH: C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-19\bin;C:\Program Files\apache-maven-3.9.0\bin;C:\Program Files\Gauge\bin;C:\Users\ADMIN\AppData\Local\Microsoft\WindowsApps;;C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ADMIN\AppData\Roaming\gauge\plugins\screenshot\0.1.0
+26-02-2023 19:23:52.327 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-19
+26-02-2023 19:23:52.327 [java] [DEBUG] gauge_project_root: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master
+26-02-2023 19:23:52.327 [java] [DEBUG] gauge_parallel_streams_count: 
+26-02-2023 19:23:52.327 [java] [DEBUG] gauge_reports_dir: reports
+26-02-2023 19:23:52.327 [java] [DEBUG] overwrite_reports: true
+26-02-2023 19:23:52.327 [java] [DEBUG] logs_directory: logs
+26-02-2023 19:23:52.327 [java] [DEBUG] enable_multithreading: true
+26-02-2023 19:23:52.327 [java] [DEBUG] gauge_specs_dir: specs
+26-02-2023 19:23:52.327 [java] [DEBUG] csv_delimiter: ,
+26-02-2023 19:23:52.327 [java] [DEBUG] gauge_java_home: 
+26-02-2023 19:23:52.327 [java] [DEBUG] gauge_custom_build_path: 
+26-02-2023 19:23:52.327 [java] [DEBUG] gauge_additional_libs: libs/*
+26-02-2023 19:23:52.327 [java] [DEBUG] gauge_jvm_args: 
+26-02-2023 19:23:52.327 [java] [DEBUG] gauge_custom_compile_dir: 
+26-02-2023 19:23:52.327 [java] [DEBUG] gauge_clear_state_level: 
+26-02-2023 19:23:52.327 [java] [DEBUG] ***** END *****
+26-02-2023 19:23:56.134 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:23:56.273 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:03.761 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:03.859 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:04.301 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:04.375 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:06.068 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:06.119 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:07.361 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:07.398 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:12.711 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:12.766 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:13.382 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:13.456 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:15.133 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:15.215 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:16.197 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:16.291 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:18.316 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:18.397 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:19.115 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:19.203 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:22.164 [Gauge] [DEBUG] Gauge could not initialize. Install 'vscjava.vscode-java-pack' extension for code insights. For more information see[Problems](command:workbench.actions.view.problems), check logs.[Troubleshooting](https://docs.gauge.org/troubleshooting.html?language=javascript&ide=vscode#gauge-could-not-initialize-for-more-information-see-problems)
+Some of the gauge lsp feature will not work as expected.
+26-02-2023 19:24:22.165 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+26-02-2023 19:24:22.380 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+26-02-2023 19:24:22.530 [Gauge] [DEBUG] request #1: textDocument/documentSymbol: parsing failed for c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec. [[ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:14 String not terminated => 'Enter Minimun value"500" and Maximun value"1500"" in Budget field' [ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found => '']
+26-02-2023 19:24:24.282 [java] [ERROR] Installed version of gauge-java (0.9.1) does not match with dependency gauge-java (0.7.15) specified in pom.xml file
+26-02-2023 19:24:25.885 [java] [DEBUG] running - C:\Program Files\Java\jdk-19\bin\javac.exe [-encoding UTF-8 -d gauge_bin @C:\Users\ADMIN\AppData\Local\Temp\gauge_temp3447457041\52fdfc072182654f163f5f0f9a621d72]
+26-02-2023 19:24:25.885 [java] [DEBUG] stdout/stderr is logged to logs\9680-javac.exe.out
+26-02-2023 19:24:27.695 [Gauge] [DEBUG] request #5: textDocument/documentSymbol: parsing failed for c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec. [[ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found => '']
+26-02-2023 19:24:27.844 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:27.917 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:28.926 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:28.943 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:24:30.081 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:5: error: package org.openqa.selenium does not exist
+26-02-2023 19:24:30.081 [java] [ERROR] import org.openqa.selenium.JavascriptExecutor;
+26-02-2023 19:24:30.081 [java] [ERROR] ^
+26-02-2023 19:24:30.081 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:6: error: package org.openqa.selenium does not exist
+26-02-2023 19:24:30.081 [java] [ERROR] import org.openqa.selenium.WebDriver;
+26-02-2023 19:24:30.081 [java] [ERROR] ^
+26-02-2023 19:24:30.130 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:7: error: package org.openqa.selenium.remote does not exist
+26-02-2023 19:24:30.130 [java] [ERROR] import org.openqa.selenium.remote.DesiredCapabilities;
+26-02-2023 19:24:30.130 [java] [ERROR] ^
+26-02-2023 19:24:30.181 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:8: error: package org.openqa.selenium.remote does not exist
+26-02-2023 19:24:30.190 [java] [ERROR] import org.openqa.selenium.remote.RemoteWebDriver;
+26-02-2023 19:24:30.190 [java] [ERROR] ^
+26-02-2023 19:24:30.283 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:26: error: cannot find symbol
+26-02-2023 19:24:30.283 [java] [ERROR] private  WebDriver driver = null;
+26-02-2023 19:24:30.283 [java] [ERROR] ^
+26-02-2023 19:24:30.283 [java] [ERROR] symbol:   class WebDriver
+26-02-2023 19:24:30.283 [java] [ERROR] location: class DriverFactory
+26-02-2023 19:24:30.284 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:28: error: cannot find symbol
+26-02-2023 19:24:30.284 [java] [ERROR] public  WebDriver getDriver() {
+26-02-2023 19:24:30.284 [java] [ERROR] ^
+26-02-2023 19:24:30.284 [java] [ERROR] symbol:   class WebDriver
+26-02-2023 19:24:30.284 [java] [ERROR] location: class DriverFactory
+26-02-2023 19:24:30.329 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:4: error: package org.openqa.selenium does not exist
+26-02-2023 19:24:30.330 [java] [ERROR] import org.openqa.selenium.By;
+26-02-2023 19:24:30.330 [java] [ERROR] ^
+26-02-2023 19:24:30.352 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:5: error: package org.openqa.selenium does not exist
+26-02-2023 19:24:30.352 [java] [ERROR] import org.openqa.selenium.JavascriptExecutor;
+26-02-2023 19:24:30.352 [java] [ERROR] ^
+26-02-2023 19:24:30.385 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:6: error: package org.openqa.selenium does not exist
+26-02-2023 19:24:30.385 [java] [ERROR] import org.openqa.selenium.WebDriver;
+26-02-2023 19:24:30.385 [java] [ERROR] ^
+26-02-2023 19:24:30.399 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:7: error: package org.openqa.selenium does not exist
+26-02-2023 19:24:30.399 [java] [ERROR] import org.openqa.selenium.WebElement;
+26-02-2023 19:24:30.399 [java] [ERROR] ^
+26-02-2023 19:24:30.511 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:11: error: package org.junit does not exist
+26-02-2023 19:24:30.511 [java] [ERROR] import static org.junit.Assert.assertEquals;
+26-02-2023 19:24:30.511 [java] [ERROR] ^
+26-02-2023 19:24:30.518 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:11: error: static import only from classes and interfaces
+26-02-2023 19:24:30.518 [java] [ERROR] import static org.junit.Assert.assertEquals;
+26-02-2023 19:24:30.518 [java] [ERROR] ^
+26-02-2023 19:24:30.520 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:15: error: cannot find symbol
+26-02-2023 19:24:30.520 [java] [ERROR] private final WebDriver driver;
+26-02-2023 19:24:30.520 [java] [ERROR] ^
+26-02-2023 19:24:30.520 [java] [ERROR] symbol:   class WebDriver
+26-02-2023 19:24:30.520 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:30.521 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:16: error: cannot find symbol
+26-02-2023 19:24:30.521 [java] [ERROR] WebElement budgetMin;
+26-02-2023 19:24:30.521 [java] [ERROR] ^
+26-02-2023 19:24:30.521 [java] [ERROR] symbol:   class WebElement
+26-02-2023 19:24:30.521 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:30.532 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:4: error: package org.openqa.selenium does not exist
+26-02-2023 19:24:30.532 [java] [ERROR] import org.openqa.selenium.By;
+26-02-2023 19:24:30.532 [java] [ERROR] ^
+26-02-2023 19:24:30.551 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:5: error: package org.openqa.selenium does not exist
+26-02-2023 19:24:30.551 [java] [ERROR] import org.openqa.selenium.WebDriver;
+26-02-2023 19:24:30.551 [java] [ERROR] ^
+26-02-2023 19:24:30.564 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:6: error: package org.openqa.selenium does not exist
+26-02-2023 19:24:30.564 [java] [ERROR] import org.openqa.selenium.WebElement;
+26-02-2023 19:24:30.564 [java] [ERROR] ^
+26-02-2023 19:24:30.576 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:10: error: package org.junit does not exist
+26-02-2023 19:24:30.576 [java] [ERROR] import static org.junit.Assert.assertEquals;
+26-02-2023 19:24:30.576 [java] [ERROR] ^
+26-02-2023 19:24:30.580 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:10: error: static import only from classes and interfaces
+26-02-2023 19:24:30.580 [java] [ERROR] import static org.junit.Assert.assertEquals;
+26-02-2023 19:24:30.580 [java] [ERROR] ^
+26-02-2023 19:24:30.581 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:14: error: cannot find symbol
+26-02-2023 19:24:30.581 [java] [ERROR] private final WebDriver driver;
+26-02-2023 19:24:30.581 [java] [ERROR] ^
+26-02-2023 19:24:30.581 [java] [ERROR] symbol:   class WebDriver
+26-02-2023 19:24:30.581 [java] [ERROR] location: class StepImplementation_ToDo
+26-02-2023 19:24:30.942 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:38: error: cannot find symbol
+26-02-2023 19:24:30.942 [java] [ERROR] DesiredCapabilities capabilities = new DesiredCapabilities();
+26-02-2023 19:24:30.942 [java] [ERROR] ^
+26-02-2023 19:24:30.943 [java] [ERROR] symbol:   class DesiredCapabilities
+26-02-2023 19:24:30.943 [java] [ERROR] location: class DriverFactory
+26-02-2023 19:24:30.946 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:38: error: cannot find symbol
+26-02-2023 19:24:30.946 [java] [ERROR] DesiredCapabilities capabilities = new DesiredCapabilities();
+26-02-2023 19:24:30.946 [java] [ERROR] ^
+26-02-2023 19:24:30.946 [java] [ERROR] symbol:   class DesiredCapabilities
+26-02-2023 19:24:30.946 [java] [ERROR] location: class DriverFactory
+26-02-2023 19:24:30.977 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:48: error: cannot find symbol
+26-02-2023 19:24:30.977 [java] [ERROR] driver = new RemoteWebDriver(new URL("https://" + username + ":" + accesskey + gridURL), capabilities);
+26-02-2023 19:24:30.977 [java] [ERROR] ^
+26-02-2023 19:24:30.977 [java] [ERROR] symbol:   class RemoteWebDriver
+26-02-2023 19:24:30.977 [java] [ERROR] location: class DriverFactory
+26-02-2023 19:24:31.078 [java] [ERROR] src\test\java\driver\driver\DriverFactory.java:60: error: cannot find symbol
+26-02-2023 19:24:31.078 [java] [ERROR] ((JavascriptExecutor) driver).executeScript("lambda-status=" + status);
+26-02-2023 19:24:31.078 [java] [ERROR] ^
+26-02-2023 19:24:31.078 [java] [ERROR] symbol:   class JavascriptExecutor
+26-02-2023 19:24:31.079 [java] [ERROR] location: class DriverFactory
+26-02-2023 19:24:31.080 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:33: error: cannot find symbol
+26-02-2023 19:24:31.080 [java] [ERROR] WebElement byClass = driver.findElement(By.xpath("//ul[2]/li/a"));
+26-02-2023 19:24:31.080 [java] [ERROR] ^
+26-02-2023 19:24:31.080 [java] [ERROR] symbol:   class WebElement
+26-02-2023 19:24:31.080 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.089 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:33: error: cannot find symbol
+26-02-2023 19:24:31.089 [java] [ERROR] WebElement byClass = driver.findElement(By.xpath("//ul[2]/li/a"));
+26-02-2023 19:24:31.089 [java] [ERROR] ^
+26-02-2023 19:24:31.089 [java] [ERROR] symbol:   variable By
+26-02-2023 19:24:31.089 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.105 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:37: error: cannot find symbol
+26-02-2023 19:24:31.106 [java] [ERROR] WebElement budget =driver.findElement(By.xpath("(//a[text()='Budget'])[1]"));
+26-02-2023 19:24:31.106 [java] [ERROR] ^
+26-02-2023 19:24:31.106 [java] [ERROR] symbol:   class WebElement
+26-02-2023 19:24:31.106 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.106 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:37: error: cannot find symbol
+26-02-2023 19:24:31.106 [java] [ERROR] WebElement budget =driver.findElement(By.xpath("(//a[text()='Budget'])[1]"));
+26-02-2023 19:24:31.106 [java] [ERROR] ^
+26-02-2023 19:24:31.106 [java] [ERROR] symbol:   variable By
+26-02-2023 19:24:31.106 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.106 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:47: error: cannot find symbol
+26-02-2023 19:24:31.106 [java] [ERROR] JavascriptExecutor js = (JavascriptExecutor) driver;
+26-02-2023 19:24:31.106 [java] [ERROR] ^
+26-02-2023 19:24:31.106 [java] [ERROR] symbol:   class JavascriptExecutor
+26-02-2023 19:24:31.106 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.106 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:47: error: cannot find symbol
+26-02-2023 19:24:31.106 [java] [ERROR] JavascriptExecutor js = (JavascriptExecutor) driver;
+26-02-2023 19:24:31.106 [java] [ERROR] ^
+26-02-2023 19:24:31.106 [java] [ERROR] symbol:   class JavascriptExecutor
+26-02-2023 19:24:31.106 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.111 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:48: error: cannot find symbol
+26-02-2023 19:24:31.111 [java] [ERROR] budgetMin= driver.findElement(By.xpath("//*[@id='bdgmin'][1]"));
+26-02-2023 19:24:31.111 [java] [ERROR] ^
+26-02-2023 19:24:31.111 [java] [ERROR] symbol:   variable By
+26-02-2023 19:24:31.111 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.172 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:55: error: cannot find symbol
+26-02-2023 19:24:31.177 [java] [ERROR] JavascriptExecutor js = (JavascriptExecutor) driver;
+26-02-2023 19:24:31.177 [java] [ERROR] ^
+26-02-2023 19:24:31.177 [java] [ERROR] symbol:   class JavascriptExecutor
+26-02-2023 19:24:31.177 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.177 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:55: error: cannot find symbol
+26-02-2023 19:24:31.177 [java] [ERROR] JavascriptExecutor js = (JavascriptExecutor) driver;
+26-02-2023 19:24:31.177 [java] [ERROR] ^
+26-02-2023 19:24:31.177 [java] [ERROR] symbol:   class JavascriptExecutor
+26-02-2023 19:24:31.177 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.177 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:56: error: cannot find symbol
+26-02-2023 19:24:31.177 [java] [ERROR] budgetMin.sendKeys(minValue);
+26-02-2023 19:24:31.177 [java] [ERROR] ^
+26-02-2023 19:24:31.177 [java] [ERROR] symbol:   variable minValue
+26-02-2023 19:24:31.177 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.177 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:58: error: cannot find symbol
+26-02-2023 19:24:31.177 [java] [ERROR] WebElement budgetMax = driver.findElement(By.xpath("//*[@id='bdgmax'][1]"));
+26-02-2023 19:24:31.177 [java] [ERROR] ^
+26-02-2023 19:24:31.177 [java] [ERROR] symbol:   class WebElement
+26-02-2023 19:24:31.177 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.178 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:58: error: cannot find symbol
+26-02-2023 19:24:31.178 [java] [ERROR] WebElement budgetMax = driver.findElement(By.xpath("//*[@id='bdgmax'][1]"));
+26-02-2023 19:24:31.178 [java] [ERROR] ^
+26-02-2023 19:24:31.178 [java] [ERROR] symbol:   variable By
+26-02-2023 19:24:31.178 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.178 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:59: error: cannot find symbol
+26-02-2023 19:24:31.178 [java] [ERROR] budgetMax.sendKeys(maxValue);
+26-02-2023 19:24:31.178 [java] [ERROR] ^
+26-02-2023 19:24:31.178 [java] [ERROR] symbol:   variable maxValue
+26-02-2023 19:24:31.178 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.178 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:61: error: cannot find symbol
+26-02-2023 19:24:31.178 [java] [ERROR] WebElement searchBnt = driver.findElement(By.xpath("//*[@id='s_search_btn']"));
+26-02-2023 19:24:31.178 [java] [ERROR] ^
+26-02-2023 19:24:31.178 [java] [ERROR] symbol:   class WebElement
+26-02-2023 19:24:31.178 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.179 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:61: error: cannot find symbol
+26-02-2023 19:24:31.179 [java] [ERROR] WebElement searchBnt = driver.findElement(By.xpath("//*[@id='s_search_btn']"));
+26-02-2023 19:24:31.179 [java] [ERROR] ^
+26-02-2023 19:24:31.179 [java] [ERROR] symbol:   variable By
+26-02-2023 19:24:31.179 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.180 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:74: error: cannot find symbol
+26-02-2023 19:24:31.180 [java] [ERROR] WebElement addItem  = driver.findElement(By.id("sampletodotext"));
+26-02-2023 19:24:31.180 [java] [ERROR] ^
+26-02-2023 19:24:31.180 [java] [ERROR] symbol:   class WebElement
+26-02-2023 19:24:31.180 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.217 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:74: error: cannot find symbol
+26-02-2023 19:24:31.217 [java] [ERROR] WebElement addItem  = driver.findElement(By.id("sampletodotext"));
+26-02-2023 19:24:31.217 [java] [ERROR] ^
+26-02-2023 19:24:31.217 [java] [ERROR] symbol:   variable By
+26-02-2023 19:24:31.217 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.230 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:78: error: cannot find symbol
+26-02-2023 19:24:31.230 [java] [ERROR] WebElement addButton = driver.findElement(By.id("addbutton"));
+26-02-2023 19:24:31.230 [java] [ERROR] ^
+26-02-2023 19:24:31.230 [java] [ERROR] symbol:   class WebElement
+26-02-2023 19:24:31.230 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.230 [java] [ERROR] src\test\java\driver\driver\ImplementationToDo.java:78: error: cannot find symbol
+26-02-2023 19:24:31.230 [java] [ERROR] WebElement addButton = driver.findElement(By.id("addbutton"));
+26-02-2023 19:24:31.230 [java] [ERROR] ^
+26-02-2023 19:24:31.230 [java] [ERROR] symbol:   variable By
+26-02-2023 19:24:31.230 [java] [ERROR] location: class ImplementationToDo
+26-02-2023 19:24:31.230 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:26: error: cannot find symbol
+26-02-2023 19:24:31.230 [java] [ERROR] assertEquals(title,"Sample page - lambdatest.com");
+26-02-2023 19:24:31.230 [java] [ERROR] ^
+26-02-2023 19:24:31.230 [java] [ERROR] symbol:   method assertEquals(String,String)
+26-02-2023 19:24:31.230 [java] [ERROR] location: class StepImplementation_ToDo
+26-02-2023 19:24:31.231 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:32: error: cannot find symbol
+26-02-2023 19:24:31.231 [java] [ERROR] WebElement itemOne = driver.findElement(By.name("li1"));
+26-02-2023 19:24:31.231 [java] [ERROR] ^
+26-02-2023 19:24:31.231 [java] [ERROR] symbol:   class WebElement
+26-02-2023 19:24:31.231 [java] [ERROR] location: class StepImplementation_ToDo
+26-02-2023 19:24:31.231 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:32: error: cannot find symbol
+26-02-2023 19:24:31.231 [java] [ERROR] WebElement itemOne = driver.findElement(By.name("li1"));
+26-02-2023 19:24:31.231 [java] [ERROR] ^
+26-02-2023 19:24:31.231 [java] [ERROR] symbol:   variable By
+26-02-2023 19:24:31.231 [java] [ERROR] location: class StepImplementation_ToDo
+26-02-2023 19:24:31.231 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:37: error: cannot find symbol
+26-02-2023 19:24:31.231 [java] [ERROR] WebElement itemThird = driver.findElement(By.name("li3"));
+26-02-2023 19:24:31.231 [java] [ERROR] ^
+26-02-2023 19:24:31.231 [java] [ERROR] symbol:   class WebElement
+26-02-2023 19:24:31.231 [java] [ERROR] location: class StepImplementation_ToDo
+26-02-2023 19:24:31.231 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:37: error: cannot find symbol
+26-02-2023 19:24:31.231 [java] [ERROR] WebElement itemThird = driver.findElement(By.name("li3"));
+26-02-2023 19:24:31.231 [java] [ERROR] ^
+26-02-2023 19:24:31.231 [java] [ERROR] symbol:   variable By
+26-02-2023 19:24:31.231 [java] [ERROR] location: class StepImplementation_ToDo
+26-02-2023 19:24:31.231 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:44: error: cannot find symbol
+26-02-2023 19:24:31.231 [java] [ERROR] WebElement addItem  = driver.findElement(By.id("sampletodotext"));
+26-02-2023 19:24:31.231 [java] [ERROR] ^
+26-02-2023 19:24:31.231 [java] [ERROR] symbol:   class WebElement
+26-02-2023 19:24:31.231 [java] [ERROR] location: class StepImplementation_ToDo
+26-02-2023 19:24:31.232 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:44: error: cannot find symbol
+26-02-2023 19:24:31.232 [java] [ERROR] WebElement addItem  = driver.findElement(By.id("sampletodotext"));
+26-02-2023 19:24:31.236 [java] [ERROR] ^
+26-02-2023 19:24:31.238 [java] [ERROR] symbol:   variable By
+26-02-2023 19:24:31.238 [java] [ERROR] location: class StepImplementation_ToDo
+26-02-2023 19:24:31.239 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:48: error: cannot find symbol
+26-02-2023 19:24:31.239 [java] [ERROR] WebElement addButton = driver.findElement(By.id("addbutton"));
+26-02-2023 19:24:31.239 [java] [ERROR] ^
+26-02-2023 19:24:31.239 [java] [ERROR] symbol:   class WebElement
+26-02-2023 19:24:31.239 [java] [ERROR] location: class StepImplementation_ToDo
+26-02-2023 19:24:31.239 [java] [ERROR] src\test\java\driver\driver\StepImplementation_ToDo.java:48: error: cannot find symbol
+26-02-2023 19:24:31.239 [java] [ERROR] WebElement addButton = driver.findElement(By.id("addbutton"));
+26-02-2023 19:24:31.239 [java] [ERROR] ^
+26-02-2023 19:24:31.240 [java] [ERROR] symbol:   variable By
+26-02-2023 19:24:31.240 [java] [ERROR] location: class StepImplementation_ToDo
+26-02-2023 19:24:31.240 [java] [ERROR] 52 errors
+26-02-2023 19:24:31.619 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+26-02-2023 19:24:37.926 [Gauge] [DEBUG] request #9: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+26-02-2023 19:25:06.174 [Gauge] [DEBUG] request #18: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+26-02-2023 19:25:09.150 [Gauge] [DEBUG] request #19: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec heading not found
+26-02-2023 19:25:11.032 [Gauge] [DEBUG] request #22: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec should have atleast one scenario
+26-02-2023 19:25:11.086 [Gauge] [DEBUG] request #23: textDocument/documentSymbol: parsing failed for c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec. [[ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec should have atleast one scenario => '']
+26-02-2023 19:25:11.261 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:25:11.277 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:25:11.824 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:25:11.866 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:25:23.556 [Gauge] [DEBUG] request #28: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec should have atleast one scenario
+26-02-2023 19:25:27.890 [Gauge] [DEBUG] request #30: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec should have atleast one scenario
+26-02-2023 19:25:42.733 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:25:42.816 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:25:43.983 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:25:44.029 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:49:50.773 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:49:51.091 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:49:53.847 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:49:53.894 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:49:54.469 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:49:54.524 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:49:55.920 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:49:55.961 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:49:56.806 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:49:56.817 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:50:35.618 [Gauge] [DEBUG] request #79: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec should have atleast one scenario
+26-02-2023 19:50:38.696 [Gauge] [DEBUG] request #81: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec should have atleast one scenario
+26-02-2023 19:50:53.806 [Gauge] [DEBUG] request #93: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec should have atleast one scenario
+26-02-2023 19:50:57.666 [Gauge] [DEBUG] request #94: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec should have atleast one scenario
+26-02-2023 19:50:59.643 [Gauge] [DEBUG] request #97: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec should have atleast one scenario
+26-02-2023 19:50:59.745 [Gauge] [DEBUG] request #99: textDocument/documentSymbol: parsing failed for c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec. [[ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec should have atleast one scenario => '']
+26-02-2023 19:50:59.897 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:50:59.986 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:51:01.444 [Gauge] [DEBUG] request #101: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec should have atleast one scenario
+26-02-2023 19:51:01.536 [Gauge] [DEBUG] request #102: textDocument/documentSymbol: parsing failed for c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec. [[ParseError] c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec should have atleast one scenario => '']
+26-02-2023 19:51:01.690 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:51:01.703 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:51:04.396 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:51:04.405 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:51:13.736 [Gauge] [DEBUG] request #108: textDocument/codeLens: failed to parse c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec:1 Spec should have atleast one scenario
+26-02-2023 19:51:23.051 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:51:23.083 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:51:23.638 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:51:23.648 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:51:24.089 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:51:24.126 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:51:38.432 [Gauge] [DEBUG] Spec file removed: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp1.spec
+26-02-2023 19:51:44.912 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:51:44.938 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:53:36.607 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
+26-02-2023 19:53:36.912 [Gauge] [DEBUG] Spec file added / modified: c:\Users\ADMIN\Downloads\gauge-selenium-sample-master\specs\todoApp.spec
